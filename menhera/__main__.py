@@ -22,15 +22,15 @@ from menhera.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-I'm here to help you manage your groups!. Need Any Help Join Our Support Group ( @MenheraChanSupport).I will Try My best to manage your groups.
+I'm here to help you manage your groups!.I will Try My best to manage your groups.
 
-I'm a group manager bot maintained by this [sexy boi](https://t.me/TheDarkW3b) I'm built in python3, using the python-telegram-bot library.
+I'm a group manager bot maintained by this [awesome person](https://t.me/Okay_retard) .
 
-Want to add me to your group? [Click here!](t.me/MenheraChanRoBot?startgroup=true)
+Want to add me to your group? [Click here!](t.me/Kanna_Chan_Bot?startgroup=true)
 
 Thanks For Using Me 
 
-If you like my work 🙂 Kindly Donate Me At @TheDarkW3b """
+ """
 
 
 IMPORTED = {}
@@ -176,7 +176,7 @@ def control_panel(bot, update):
 
         LOGGER.info(query.data)
     else:
-        M_match = "MenheraChan is the best bot" #LMAO, don't uncomment
+        M_match = "Kanna_Chan is the best bot" #LMAO, don't uncomment
 
     if M_match:
         text = "*Control panel* 🛠"
